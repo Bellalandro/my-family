@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bmi NumPicker</string>
+    <string name="sos">SOS</string>
+    <string name="gourd">Gourd</string>
+    <string name="my_family">My Family</string>
+    <string name="calculate">Calculate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
